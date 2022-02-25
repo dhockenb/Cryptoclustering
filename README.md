@@ -7,7 +7,7 @@ This Jupyter notebook application uses unsupervised K-means clustering and princ
 
 ![Interactive line plots showing elbow curves for k values ranging from 1 to 11 with original data features (left) and 3 PCA components (right) ](interactive_line_plot.png)
 
-![Interactive scatter plots showing K-means clustering on two dimensions for 41 cryptocurrencies using original data features (left) and 3 PCA components (right].(interactive_scatter_plot.png)
+![Interactive scatter plots showing K-means clustering on two dimensions for 41 cryptocurrencies using original data features (left) and 3 PCA components (right](interactive_scatter_plot.png)
 
 ## *Technologies*
 This application is written using Python 3.9.7 and uses pricing data for different time periods for 41 cryptocurrencies. Interactive line plots and visualizations are created using the PyViz hvplot.
